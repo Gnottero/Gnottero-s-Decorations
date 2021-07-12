@@ -6,6 +6,6 @@ This mod is currently under development (sort of), so more features will be comi
 
 ## Currently Implemented Features
 
-Vertical Slabs
+- Vertical Slabs
 
 
