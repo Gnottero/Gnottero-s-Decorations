@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Gnottero's Decorations
+## Description
 
-## Setup
+Gnottero's Decorations is a Minecraft mod that aims to improve the building experience by adding some of the most requested blocks.
+This mod is currently under development (sort of), so more features will be coming in the future.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Currently Implemented Features
 
-## License
+Vertical Slabs
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
